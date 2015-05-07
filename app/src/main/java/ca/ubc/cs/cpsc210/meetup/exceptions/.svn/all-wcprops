@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/2014w2/!svn/ver/9217/users/L2G/a3v9a/MeetUp-Phase2/app/src/main/java/ca/ubc/cs/cpsc210/meetup/exceptions
+END
+IllegalSectionInitialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/2014w2/!svn/ver/9217/users/L2G/a3v9a/MeetUp-Phase2/app/src/main/java/ca/ubc/cs/cpsc210/meetup/exceptions/IllegalSectionInitialization.java
+END
+IllegalStudentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/2014w2/!svn/ver/9217/users/L2G/a3v9a/MeetUp-Phase2/app/src/main/java/ca/ubc/cs/cpsc210/meetup/exceptions/IllegalStudentException.java
+END
+DuplicateCourseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/2014w2/!svn/ver/9217/users/L2G/a3v9a/MeetUp-Phase2/app/src/main/java/ca/ubc/cs/cpsc210/meetup/exceptions/DuplicateCourseException.java
+END
+IllegalCourseTimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/2014w2/!svn/ver/9217/users/L2G/a3v9a/MeetUp-Phase2/app/src/main/java/ca/ubc/cs/cpsc210/meetup/exceptions/IllegalCourseTimeException.java
+END
